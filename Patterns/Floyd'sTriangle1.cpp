@@ -19,7 +19,7 @@ int main(){
 					}
 					k++;
 				}
-				cout<<endl;
+				cout<<"\n";
 		}
 		return 0;
 }
