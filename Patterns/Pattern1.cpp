@@ -16,7 +16,7 @@ using namespace std;
 			for(j=1;j<=i;j++){
 			cout<<i<<"\t";
 			}
-			cout<<endl;
+			cout<<"\n";
 		}
 		return 0;
 		}
