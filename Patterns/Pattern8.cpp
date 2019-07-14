@@ -1,11 +1,11 @@
 // Author - Pankaj jaiswal
 // Date - 14-07-2019
 /* 
-    3
-    3
-1 2 3 4 5
-    3
-    3
+      3
+      3
+1  2  3  4  5
+      3
+      3
  */
 
  # include<iostream>
