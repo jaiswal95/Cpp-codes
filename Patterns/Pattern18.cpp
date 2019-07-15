@@ -19,7 +19,7 @@ using namespace std;
           		for(int j=i;j>=1;j--){
           				while(s>0){
           					cout<<"\t";
-                            s--;
+                                                s--;
           				}
           			cout<<j<<"\t";
           		}
