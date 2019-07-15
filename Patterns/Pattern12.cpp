@@ -22,7 +22,7 @@ using namespace std;
 									k++;
 								}
                             }
-                            cout<<endl;
+                            cout<<"\n";
 			}
 			return 0;
 		}
