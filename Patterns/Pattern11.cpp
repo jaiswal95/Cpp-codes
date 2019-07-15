@@ -1,5 +1,5 @@
 //Author- Pankaj jaiswal
-//Date- 14-07-2019
+//Date- 15-07-2019
 /*
 * * * * *
 * * * *
@@ -17,7 +17,7 @@ using namespace std;
  				 		for(int j=0;j<n-i;j++){
  				 					cout<<"* ";
  				 		}
- 				 		cout<<endl;
+ 				 		cout<<"\n";
  				 }
  				 return 0;
    }
