@@ -17,7 +17,7 @@ using namespace std;
  				 		for(int j=0;j<n-i;j++){
  				 					cout<<"* ";
  				 		}
- 				 		cout<<endl;
+ 				 		cout<<"\n";
  				 }
  				 return 0;
    }
