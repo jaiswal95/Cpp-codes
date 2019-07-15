@@ -1,5 +1,5 @@
 //Author- Pankaj jaiswal
-//Date- 14-07-2019
+//Date- 15-07-2019
 
 /*
 1 
@@ -22,7 +22,7 @@ using namespace std;
 									k++;
 								}
                             }
-                            cout<<endl;
+                            cout<<"\n";
 			}
 			return 0;
 		}
