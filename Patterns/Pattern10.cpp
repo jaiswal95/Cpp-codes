@@ -20,7 +20,7 @@ using namespace std;
 						 		else
 						 			cout<<"0"<<"\t";
 						}
-					cout<<endl;	
+					cout<<"\n";	
 				}
 				return 0;
 		}
