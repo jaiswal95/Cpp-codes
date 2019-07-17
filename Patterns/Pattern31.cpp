@@ -1,5 +1,12 @@
 //Author- Pankaj jaiswal
 //Date- 17-07-2019
+/*
+    *
+   * *
+  *   *
+ *     *
+* * * * *
+*/
 
 #include<iostream>
 using namespace std;
