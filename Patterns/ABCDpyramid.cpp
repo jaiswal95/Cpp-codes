@@ -1,5 +1,12 @@
 //Author- Pankaj jaiswal
 //Date- 17-07-2019
+/*
+ABCDEEDCBA
+ABCDDCBA
+ABCCBA
+ABBA
+AA
+*/
 
 #include<iostream>
 using namespace std;
