@@ -1,6 +1,12 @@
 //Author- Pankaj jaiswal
 //Date- 18-07-2019
-
+/*
+@....@
+@..@
+@@
+@..@
+@....@
+*/
 #include <iostream>
 using namespace std;
 int main(){
