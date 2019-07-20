@@ -1,5 +1,6 @@
 //Author : Pankaj jaiswal
 //Date : 19th july 2019
+
 /*
 INCREASING DECREASING SEQUENCE
 Take the following as input.
