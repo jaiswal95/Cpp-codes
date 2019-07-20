@@ -1,7 +1,8 @@
 //Author: Pankaj jaiswal
 //Date: 20th july 2019
 /*
-A person wants to go from origin to a particular location,he can move in only 4 directions(i.e.,East,West,South,North) but his friend gave him a long route,help a person to find minimum moves so that he can reach to the destination.
+A person wants to go from origin to a particular location,he can move in only 4 directions(i.e.,East,West,South,North)
+but his friend gave him a long route,help a person to find minimum moves so that he can reach to the destination.
 
 				Input-NESNWES
 				Output-E
