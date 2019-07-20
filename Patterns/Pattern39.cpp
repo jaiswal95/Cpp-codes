@@ -1,11 +1,11 @@
 //Author- Pankaj jaiswal
 //Date- 17-07-2019
 /*      
-        1
-      1 2 3
-    1 2 3 4 5
-  1 2 3 4 5 6 7
-1 2 3 4 5 6 7 8 9
+                                1
+                        1       2       3
+                1       2       3       4       5
+        1       2       3       4       5       6       7
+1       2       3       4       5       6       7       8       9
 */
 
 #include<iostream>
@@ -22,7 +22,7 @@ using namespace std;
 		  		cout<<"\t";
 		  		space= space+1;
 		  	}
-		  //Numbers
+		  //Numbers 
 		  	int no=1;
 		  	while(no<=(2*i)-1){
 		  		cout<<no<<"\t";
