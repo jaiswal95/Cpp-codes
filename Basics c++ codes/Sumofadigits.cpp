@@ -14,6 +14,6 @@ int main(){
 			sum=sum+last_digit;
 			n=n/10;
 		}
-		cout<<"Sum is"<<sum<<endl;
+		cout<<"Sum is "<<sum<<endl;
 		return 0;
 }
