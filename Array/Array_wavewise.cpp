@@ -1,4 +1,4 @@
-//author : Neeraj jaiswal
+//author : Pankaj jaiswal
 // Date : 21 th july 2019
 /*
 input
