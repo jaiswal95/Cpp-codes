@@ -1,3 +1,10 @@
+//Author: Pankaj jaiswal
+//Date: 22th july 2019
+/*
+Enter value of n : 5
+The series is : 1+1/11+1/21+1/31+1/41
+The sum is : 1.19518
+*/
 #include<iostream>
 using namespace std;
 int main()
