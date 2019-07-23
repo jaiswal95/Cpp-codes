@@ -1,5 +1,5 @@
 //Author: Pankaj jaiswal
-//Date: 22th july 2019
+//Date: 23th july 2019
 /*
 Enter n : 5
 1/2+3/4+5/6+7/8+9/10
