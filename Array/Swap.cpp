@@ -1,5 +1,14 @@
 //Author: Pankaj jaiswal
 //Date: 23th july 2019
+/*
+Enter number:5
+4 5 0 2 8
+0
+2
+4
+5
+8
+*/
 #include<iostream>
 using namespace std;
 
